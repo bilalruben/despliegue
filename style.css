@@ -5,3 +5,6 @@ div {
 .hiddenContent{
     display: none;
 }
+body{
+    background-color: burlywood;   
+}
